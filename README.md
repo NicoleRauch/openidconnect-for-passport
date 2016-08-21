@@ -22,4 +22,4 @@ Based on the [Passport-OpenID Connect](https://github.com/jaredhanson/passport-o
 
 Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
 
-Copyright (c) 2014-2015 Nicole Rauch <[http://nicolerauch.de/](http://nicolerauch.de/)>
+Copyright (c) 2014-2016 Nicole Rauch <[http://nicolerauch.de/](http://nicolerauch.de/)>
